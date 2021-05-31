@@ -22,7 +22,7 @@ title: Flash
 email: your-email@example.com
 description: Learn - Code - Refactor - Share - Repeat
 baseurl: ""
-#baseurl: ""
+#url: ""
 url: "http://www.varadblogs.com"
 github_username:  pyvarad
 repository: pyvarad/pyvarad.github.io
