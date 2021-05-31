@@ -21,9 +21,9 @@
 title: Flash
 email: your-email@example.com
 description: Learn - Code - Refactor - Share - Repeat
-baseurl: "varadblogs.com/"
+baseurl: "varad-blogs"
 #baseurl: ""
-url: "/varad-blogs"
+url: "http://www.varadblogs.com/"
 github_username:  pyvarad
 repository: pyvarad/pyvarad.github.io
 
